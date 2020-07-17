@@ -1,0 +1,2 @@
+Extract report if it is an archive (zip, rar, etc.)
+Provide options to provide Git repo manually (Useful when onlinetext is empty)
